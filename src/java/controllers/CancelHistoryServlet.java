@@ -22,10 +22,7 @@ import repositories.HistoryRepository;
 import variables.HistoryStatus;
 import variables.Routers;
 
-/**
- *
- * @author Kaine
- */
+
 @WebServlet(name = "CancelHistoryServlet", urlPatterns = {"/" + Routers.CANCEL_HISTORY_SERVLET})
 public class CancelHistoryServlet extends HttpServlet {
 

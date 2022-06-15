@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import variables.Routers;
 
-/**
- *
- * @author Kaine
- */
 @WebServlet(name = "AddParamsServlet", urlPatterns = {"/AddParamsServlet"})
 public class AddParamsServlet extends HttpServlet {
 
