@@ -5,10 +5,7 @@
  */
 package variables;
 
-/**
- *
- * @author Kaine
- */
+
 public class HistoryStatus {
 
     public static enum status {

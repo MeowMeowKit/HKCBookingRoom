@@ -15,10 +15,6 @@ import repositories.HistoryRepository;
 import variables.HistoryStatus;
 import variables.RoomStatus;
 
-/**
- *
- * @author Kaine
- */
 public class RoomService {
 
     public static ArrayList<RoomDetail> filterRoomByDateBooking(ArrayList<RoomDetail> roomDetails, Date checkInDate, Date checkOutDate) throws Exception {

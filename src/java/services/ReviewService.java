@@ -8,10 +8,7 @@ package services;
 import entities.Review;
 import java.util.ArrayList;
 
-/**
- *
- * @author kaine
- */
+
 public class ReviewService {
 
     public static Float reviewRateOverall(ArrayList<Review> reviews) {

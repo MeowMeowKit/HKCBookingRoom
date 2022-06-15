@@ -8,10 +8,7 @@ package helper;
 import entities.RoomType;
 import java.util.ArrayList;
 
-/**
- *
- * @author Kaine
- */
+
 public class FunctionJSP {
 
     public static RoomType getRoomTypeById(ArrayList<RoomType> list, Integer id) {

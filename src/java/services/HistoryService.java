@@ -10,10 +10,7 @@ import java.sql.Date;
 import java.util.ArrayList;
 import variables.HistoryStatus;
 
-/**
- *
- * @author Kaine
- */
+
 public class HistoryService {
 
     public static boolean isValidDateBooking(ArrayList<History> histories, Date inputCheckIn, Date inputCheckOut) {

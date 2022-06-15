@@ -5,10 +5,7 @@
  */
 package variables;
 
-/**
- *
- * @author Kaine
- */
+
 public class RoomStatus {
 
     public static enum status {
