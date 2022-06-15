@@ -14,10 +14,7 @@ import javax.servlet.http.HttpSession;
 import repositories.UserRepository;
 import variables.UserRole;
 
-/**
- *
- * @author kaine
- */
+
 public class UseGuard {
 
     private HttpServletRequest request;

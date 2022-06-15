@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import variables.Routers;
 
-/**
- *
- * @author kaine
- */
 @WebServlet(name = "LogoutServlet", urlPatterns = {"/" + Routers.LOGOUT_SERVLET})
 public class LogoutServlet extends HttpServlet {
 

@@ -5,10 +5,6 @@
  */
 package entities;
 
-/**
- *
- * @author Kaine
- */
 public class RoomDetail {
 
     private Room room;

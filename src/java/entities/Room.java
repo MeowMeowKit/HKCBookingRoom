@@ -5,10 +5,7 @@
  */
 package entities;
 
-/**
- *
- * @author Kaine
- */
+
 public class Room {
 
     private Integer roomId;

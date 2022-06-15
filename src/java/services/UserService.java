@@ -9,10 +9,7 @@ import entities.History;
 import entities.User;
 import java.util.ArrayList;
 
-/**
- *
- * @author Kaine
- */
+
 public class UserService {
 
     public static boolean isValidPhone(String inputPhone) {

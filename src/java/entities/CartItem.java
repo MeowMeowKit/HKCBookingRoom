@@ -7,10 +7,7 @@ package entities;
 
 import java.sql.Date;
 
-/**
- *
- * @author Kaine
- */
+
 public class CartItem {
 
     private Room room;

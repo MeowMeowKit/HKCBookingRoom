@@ -5,10 +5,7 @@
  */
 package entities;
 
-/**
- *
- * @author Kaine
- */
+
 public class HistoryDetail {
 
     private Integer userId;

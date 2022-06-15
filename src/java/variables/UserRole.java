@@ -5,10 +5,6 @@
  */
 package variables;
 
-/**
- *
- * @author kaine
- */
 public class UserRole {
 
     public static enum role {

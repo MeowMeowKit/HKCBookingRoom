@@ -21,10 +21,7 @@ import repositories.HistoryRepository;
 import services.HistoryService;
 import variables.Routers;
 
-/**
- *
- * @author Kaine
- */
+
 @WebServlet(name = "UserHistoriesServlet", urlPatterns = {"/" + Routers.USER_HISTORIES_SERVLET})
 public class UserHistoriesServlet extends HttpServlet {
 

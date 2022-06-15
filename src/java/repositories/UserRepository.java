@@ -13,10 +13,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import javax.naming.NamingException;
 
-/**
- *
- * @author kaine
- */
+
 public class UserRepository {
 
     private Connection repo;

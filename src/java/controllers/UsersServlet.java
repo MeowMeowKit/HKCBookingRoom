@@ -18,10 +18,6 @@ import repositories.UserRepository;
 import variables.Routers;
 import variables.UserRole;
 
-/**
- *
- * @author Kaine
- */
 @WebServlet(name = "UsersServlet", urlPatterns = {"/" + Routers.USERS_SERVLET})
 public class UsersServlet extends HttpServlet {
 
