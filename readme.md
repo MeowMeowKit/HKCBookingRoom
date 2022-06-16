@@ -6,5 +6,5 @@
 -  Users can book hotels that suit their needs
 -  This project is written in java language with supporting tools like TailWindCss, JSP, Servlet
 -  ...
-
+![Screenshot](screenshot (13).png)
 #### © 2022 MeowMeowKit
